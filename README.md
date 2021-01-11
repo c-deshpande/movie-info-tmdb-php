@@ -3,9 +3,9 @@ An application which displays movie information using PHP.
 
 Project done as a part of CSE-5335 Web Data Management Course at UTA.
 
-This project is the same as <a href="https://github.com/c-deshpande/movie-info-tmdb">This</a>, but this one has been implemented in PHP.
+This project is the same as <a href="https://github.com/c-deshpande/movie-info-tmdb" target="_blank">This</a>, but this one has been implemented in PHP.
 
-Demo of the project can be found <a href="https://movie-info-tmdb-php.herokuapp.com/">Here</a>.
+Demo of the project can be found <a href="https://movie-info-tmdb-php.herokuapp.com/" target="_blank">Here</a>.
 
 The problem statement is as follows,
 
